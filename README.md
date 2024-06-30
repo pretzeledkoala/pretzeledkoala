@@ -1,13 +1,10 @@
-# Building
-
-Here are some things I've built:
+# Projects
 
 - [Blog](https://pretzeledkoala.vercel.app/): A blog with 15k+ views on cryptography, representation theory, and related topics.
 - [Fusion](https://github.com/pretzeledkoala/fusion): A Rust codebase for composable commit-and-prove zkSNARKs
 - [Whirlwind](https://github.com/pretzeledkoala/whirlwind): A highly customizable blazing-fast workstation for scribing faster in-class LaTeX notes
 
 # Notes
- Here are some of my notes:
 
 - **Introductory Algebraic Geometry**. [Basic Definitions and the Nullstellensatz](https://pretzeledkoala.vercel.app/blog/math.ag/ag/1), [Affine Varieties](https://pretzeledkoala.vercel.app/blog/math.ag/ag/2), [Projective Varieties](https://pretzeledkoala.vercel.app/blog/math.ag/ag/3), [More on Varieties and Blow-Ups](https://pretzeledkoala.vercel.app/blog/math.ag/ag/4)
 - **Lie Algebras**. [Foundations of Lie Algebras](https://pretzeledkoala.vercel.app/blog/math.rt/liealg/1), [Root Systems](https://pretzeledkoala.vercel.app/blog/math.rt/liealg/2), [More on Root Systems and Enveloping Algebras](https://pretzeledkoala.vercel.app/blog/math.rt/liealg/3), [Module Theory and Character Formulas in Lie Algebras](https://pretzeledkoala.vercel.app/blog/math.rt/liealg/4)
