@@ -1,8 +1,10 @@
 # Projects
 
 - [Blog](https://pretzeledkoala.vercel.app/): A blog with 15k+ views on cryptography, representation theory, and related topics.
-- [Fusion](https://github.com/pretzeledkoala/fusion): A Rust codebase for composable commit-and-prove zkSNARKs
+
+## Works in Progress
 - [Whirlwind](https://github.com/pretzeledkoala/whirlwind): A highly customizable blazing-fast workstation for scribing faster in-class LaTeX notes
+- [Fusion](https://github.com/pretzeledkoala/fusion): A Rust codebase for composable commit-and-prove zkSNARKs
 
 # Notes
 
