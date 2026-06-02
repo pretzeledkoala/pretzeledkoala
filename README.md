@@ -1,2 +1,1 @@
-- [Blog](https://garyhu.me): A blog with 19k views
-- [Whirlwind](https://github.com/pretzeledkoala/whirlwind): A highly customizable blazing-fast workstation for scribing faster in-class LaTeX notes.
+
